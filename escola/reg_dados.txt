@@ -1,0 +1,7 @@
+['executa_escola.py', 'Chico', '2', 'latir', 'Ramon', '29', 'Python']
+['executa_escola.py', 'chicao', '2', 'latidao', 'ramonzao', '29', 'pitaao']
+['executa_escola.py', 'Carol', '30', 'python', 'Ramon', '29', 'Python']
+['executa_escola.py', 'Ramon', '29', 'AWS', 'Alura', '10', 'AWS_etc']
+['executa_escola.py', 'chico', '2', 'latir', 'romao', '30', 'pitinhao']
+['executa_escola.py', 'chico', '2', 'latir', 'romao', '30', 'pitinhao']
+['executa_escola.py', 'caue', '25', 'bigdata', 'barbara', '30', 'gestao']
